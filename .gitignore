@@ -1,0 +1,7 @@
+# Ignore Streamlit's local configuration and API keys
+.streamlit/secrets.toml
+
+# Ignore Python virtual environments and compiled files
+.venv/
+__pycache__/
+*.pyc
